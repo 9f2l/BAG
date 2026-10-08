@@ -1,0 +1,4 @@
+# paid product files must never be published
+product/
+dist/
+assets/
