@@ -63,7 +63,7 @@ Your first client email sets the tone for the whole job. A kick-off message shou
 Invoice tip: send it the day the work is delivered, not "when you get around to it". Include a due date and a late-fee line. Faster invoices are paid faster.
 
 **Day 12, kit mention**
-I put my proposal, contract, onboarding checklist and invoice templates into one pack for freelancers. $12, instant download: [LINK]
+I put my proposal, contract, onboarding checklist and invoice templates into one pack for freelancers. QAR 50, instant download: [LINK]
 
 **Day 13**
 Scope creep is not your client's fault. It's what happens when scope is not written down. One sentence in your proposal ("Not included: …") prevents most of it.
@@ -83,7 +83,7 @@ What's the worst client mistake that taught you to always use a contract? Share 
 
 ## Week 4: Direct but honest offers
 
-**Day 22** Why I made the Freelancer Starter Kit: I wanted to stop rewriting the same documents for every client. 4 templates, $12: [LINK]
+**Day 22** Why I made the Freelancer Starter Kit: I wanted to stop rewriting the same documents for every client. 4 templates, QAR 50: [LINK]
 **Day 23** What's inside the kit (list the four files). 30-day refund.
 **Day 24** "If you only use one thing from the kit, make it the contract." Explain why.
 **Day 25** Reply to anyone asking about contracts, rates, or invoices in a group (only where allowed) with a helpful answer, then mention the tool.
